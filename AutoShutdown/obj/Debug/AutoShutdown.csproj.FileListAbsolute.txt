@@ -1,0 +1,11 @@
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\bin\Debug\AutoShutdown.exe.config
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\bin\Debug\AutoShutdown.exe
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\bin\Debug\AutoShutdown.pdb
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.AssemblyReference.cache
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.SuggestedBindingRedirects.cache
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.Form1.resources
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.Properties.Resources.resources
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.GenerateResource.cache
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.CoreCompileInputs.cache
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.exe
+D:\Users\Ming\Desktop\winformtest\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.pdb
